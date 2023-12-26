@@ -3,7 +3,7 @@ Hello! I'm Thang Nguyen and come from to Binh Duong. Currently, My job is engine
 ## 📫 How to reach me: 
 
 [![GitHub](https://github.githubassets.com/favicons/favicon.png) GitHub](https://github.com/nguyenthanguth/)
-[![Youtube](https://github.com/nguyenthanguth/nguyenthanguth/blob/main/youtube.png) Youtube](https://www.youtube.com/)
+[![Youtube](https://www.youtube.com/s/desktop/28b0985e/img/favicon.ico) Youtube](https://www.youtube.com/)
 [![Facebook](https://github.com/nguyenthanguth/nguyenthanguth/blob/main/facebook.png) Facebook](https://www.facebook.com/NguyenThang.97.love.you/)
 
 [![Thang's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenthanguth&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)](https://github.com/nguyenthanguth/)
