@@ -17,6 +17,7 @@ Hello! I'm Thang Nguyen and come from to Binh Duong. Currently, My job is engine
 
 <a href="https://github.com/nguyenthanguth/Machine-Learning-Model-ML.NET/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanguth&repo=Machine-Learning-Model-ML.NET&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanguth&repo=Machine-Learning-Model-ML.NET&theme=merko" />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanguth&layout=compact&theme=merko)](https://github.com/nguyenthanguth/)
