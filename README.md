@@ -10,13 +10,16 @@ Hello! I'm Thang Nguyen and come from to Binh Duong. Currently, My job is engine
 
 <a href="https://github.com/nguyenthanguth/AutoCAD-API/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanguth&repo=AutoCAD-API&theme=merko" />
-</a>   
+</a>
 <a href="https://github.com/nguyenthanguth/Tekla-API/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanguth&repo=Tekla-API&theme=merko" />
 </a>
 
 <a href="https://github.com/nguyenthanguth/Machine-Learning-Model-ML.NET/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanguth&repo=Machine-Learning-Model-ML.NET&theme=merko" />
+</a>
+<a href="https://github.com/nguyenthanguth/Machine-Learning-Model-ML.NET/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanguth&repo=ProgressBar2Forms&theme=merko" />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthanguth&layout=compact&theme=merko)](https://github.com/nguyenthanguth/)
