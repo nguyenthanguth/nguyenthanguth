@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-Hello! I'm Thang Nguyen and come from to Binh Duong. Currently, My job is engineering civil. Fueled by a fervor for programming, I've crafted this channel with the noble aim of aiding beginners venturing into the programming intricacies of construction.<br>
+Hello! I'm Thang Nguyen and come from to Binh Duong. Currently, My job is engineering civil. Driven by my passion for programming, I created this channel with the aim of helping beginners explore programming issues in construction.<br>
 ## 📫 How to reach me: 
 
 [![GitHub](https://github.githubassets.com/favicons/favicon.png) GitHub](https://github.com/nguyenthanguth/)
@@ -18,7 +18,7 @@ Hello! I'm Thang Nguyen and come from to Binh Duong. Currently, My job is engine
 <a href="https://github.com/nguyenthanguth/Machine-Learning-Model-ML.NET/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanguth&repo=Machine-Learning-Model-ML.NET&theme=merko" />
 </a>
-<a href="https://github.com/nguyenthanguth/Machine-Learning-Model-ML.NET/">
+<a href="https://github.com/nguyenthanguth/ProgressBar2Forms/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanguth&repo=ProgressBar2Forms&theme=merko" />
 </a>
 
