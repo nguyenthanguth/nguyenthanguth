@@ -1,8 +1,6 @@
 ### My name is x.Thắng, I'm a C# Developer. Nice to meet you! 👋👋👋
 I develop applications, add-ins in AutoCAD and Tekla API C# apply for BIM ((B)uilding (I)nformation (M)odeling). 
 
-Unfortunately, due to my company security policy I can't upload most of my code to public repositories, but I share with glimpse of it here.
-
 ## 📫 How to reach me: 
 
 [![GitHub](https://github.githubassets.com/favicons/favicon.png) GitHub](https://github.com/nguyenthanguth/)
