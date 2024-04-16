@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-Hello! I'm Thang Nguyen and come from to Binh Duong. Currently, My job is engineering civil. Driven by my passion for programming, I created this channel with the aim of helping beginners explore programming issues in construction.<br>
+My name is x.Thang, I'm a C# Developer with 3 years' experience. Nice to meet you!
 ## 📫 How to reach me: 
 
 [![GitHub](https://github.githubassets.com/favicons/favicon.png) GitHub](https://github.com/nguyenthanguth/)
