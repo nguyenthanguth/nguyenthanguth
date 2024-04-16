@@ -1,5 +1,8 @@
-### WELCOME TO MY PAGE 👋👋👋
-My name is x.Thang, I'm a C# Developer with 3 years' experience. Nice to meet you!
+### WELCOME TO MY PAGE. My name is x.Thắng 👋👋👋
+I develop applications, add-ins in AutoCAD and Tekla API C# apply for BIM ((B)uilding (I)nformation (M)odeling). Nice to meet you!
+
+Unfortunately, due to my company security policy I can't upload most of my code to public repositories, but I share with glimpse of it here.
+
 ## 📫 How to reach me: 
 
 [![GitHub](https://github.githubassets.com/favicons/favicon.png) GitHub](https://github.com/nguyenthanguth/)
