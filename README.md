@@ -16,7 +16,7 @@ I develop applications, add-ins in AutoCAD and Tekla API C# apply for BIM ((B)ui
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanguth&repo=Tekla-API&theme=merko" />
 </a>
 
-<a href="https://github.com/nguyenthanguth/PUBG-YoloDotNet">
+<a href="https://github.com/nguyenthanguth/PUBG-YoloDotNet/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenthanguth&repo=Machine-Learning-Model-ML.NET&theme=merko" />
 </a>
 <a href="https://github.com/nguyenthanguth/ProgressBar2Forms/">
